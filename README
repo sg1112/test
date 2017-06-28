@@ -1,0 +1,3 @@
+
+To use templates for commit messages, the config option commit.template is used. Specify <template_file_path> in the command given below:
+eg: git config commit.template commit.txt
