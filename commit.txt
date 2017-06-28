@@ -1,0 +1,7 @@
+Commit-type: i.e. bug-fix, feature, documentation
+Funded-by:
+Project:
+Time:
+Reported-by:
+Thanks-to:
+Dev-environment: e.g., vi, Emacs, gnumake, git
